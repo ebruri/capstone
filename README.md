@@ -1,8 +1,8 @@
-# Project Name
+# Bubble Brain
 
 #### By Ebru Rice
 
-#### ---
+#### This is an app to help those with ADHD keep their ideas in one place and narrow down their focus to help them accomplish their goal. 
 
 ## Technologies Used
 
@@ -11,9 +11,10 @@
 * JavaScript
 * React
 * NPM
+* Firebase
 
 ## Description
-
+Those with ADHD sometimes suffer with infinite amount of choices or ideas everyday. This tool could help those people keep their ideas in one place and narrow down their focus to help them accomplish their goal. 
 
 
 ## Component Diagram
@@ -27,10 +28,20 @@
 
 * Open Terminal
 * Change the current working directory to the location where you want the cloned directory.
-* Type ``git clone https://github.com/ebruri/tap-room``
+* Type ``git clone https://github.com/ebruri/bubble-brain``
 * Press enter to create your local clone.
 * Install dependancies for the application by using the command $ ``npm install``
 * Run the application by using the command ``npm run start``
+
+## Research & Planning Log
+
+Tuesday, June 21st, 2022
+* 17:00 Firebase tutorial
+* 21:30 Update the proposal 
+
+Monday, June 20th, 2022
+* 16:00 Research about ADHD tools 
+* 20:00 Planning 
 
 ## Known Bugs
 
