@@ -35,8 +35,20 @@ Those with ADHD sometimes suffer with infinite amount of choices or ideas everyd
 
 ## Research & Planning Log
 
+Sunday, July 10th
+* 10:00 [React Crash Course](https://www.youtube.com/watch?v=Dorf8i6lCuk&ab_channel=Academind)
+* 14:00 [Drag and Drop React Tutorial](https://www.youtube.com/watch?v=4bzJrEETW4w)
+
+Saturday, July 9th, 2022
+* 16:00 [React Crash Course](https://www.youtube.com/watch?v=Dorf8i6lCuk&ab_channel=Academind)
+
+
+Monday, June 27th, 2022
+* 13:00 [React Crash Course](https://www.youtube.com/watch?v=Dorf8i6lCuk&ab_channel=Academind)
+
+
 Tuesday, June 21st, 2022
-* 17:00 Firebase tutorial
+* 20:00 Firebase tutorial
 * 21:30 Update the proposal 
 
 Monday, June 20th, 2022
