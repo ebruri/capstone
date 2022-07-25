@@ -42,10 +42,8 @@ Sunday, July 10th
 Saturday, July 9th, 2022
 * 16:00 [React Crash Course](https://www.youtube.com/watch?v=Dorf8i6lCuk&ab_channel=Academind)
 
-
 Monday, June 27th, 2022
 * 13:00 [React Crash Course](https://www.youtube.com/watch?v=Dorf8i6lCuk&ab_channel=Academind)
-
 
 Tuesday, June 21st, 2022
 * 20:00 Firebase tutorial
